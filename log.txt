@@ -1,0 +1,15 @@
+hop .. 		.. 		; sleep 2
+home; reveall
+reveall
+home
+reveall
+hop .. ; reveall
+echo hi |
+| echo hi
+| echo i
+| ecjo hi
+| echon i
+| echo hi
+echo hi |
+| echo hi
+cd ..
